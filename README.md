@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-<img align="" src="https://github-readme-stats.vercel.app/api?username=halfism&show_icons=true&locale=cn" />
-<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfism&layout=compact&theme=dark&locale=cn" />
+<img align="" src="https://github-readme-stats.vercel.app/api?username=halfism&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0&theme=&locale=cn" />
+<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfism&hide_title=true&hide_border=true&layout=compact&bg_color=0&theme=&locale=cn" />
  
